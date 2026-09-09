@@ -42,3 +42,26 @@
 # Creativity
 
 **I think the story is one that would be very interesting to anyone not familiar with the structure of Alaskan safety systems.**
+
+# Story Pitch: Do AU Students Know What The Health Center Offers?
+
+**Interesting question:** How many students actually use the campus health center, and how much do students know about the services it provides?
+
+**Potential data:** I could request information from the student health center about the number and types of appointments students use, while protecting patient privacy. I could also create my own dataset through an anonymous student survey asking students:
+
+- Whether they have used the health center
+- Which services they know are available
+- Where they get health information
+- Why they have or have not used the health center
+- Whether they know how to make an appointment
+
+**Why now:** Students like myself are balancing academics, work, and other responsibilities, making campus health care important. At the beginning of the academic year, students may not be familiar with the resources available on campus.
+
+**Potential sources:**
+
+- SHC director or staff
+- Students who regularly use the health center
+- Students who have never used it
+- Student organizations focused on health and wellness
+
+*AI disclosure: I used AI to help organize this story pitch.*
