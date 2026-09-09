@@ -60,8 +60,8 @@
 **Potential sources:**
 
 - SHC director or staff
-- Students who regularly use the health center
+- Students who use the health center
 - Students who have never used it
-- Student organizations focused on health and wellness
+- Student-run organizations focused on peer health and wellness
 
 *AI disclosure: I used AI to help organize this story pitch.*
