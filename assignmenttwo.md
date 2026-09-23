@@ -12,11 +12,15 @@ The original database covers theatrical box-office performance for all films. It
 
 Box Office Mojo labels domestic box office as revenue from the United States, Canada, and Puerto Rico. Foreign box office refers to revenue from the rest of the globe. Box-office totals sometimes change after a movie opens because films may remain in theaters, return to theaters for a re-release, or receive changing reports of revenue.
 
-There are several limitations to this data:
+# There are a few limitations to this data:
 
 ## Incomplete International Data:
 
+Data for individual foreign countries can be missing, delayed, incomplete. This usually encompasses major markets like China and Russia.
+
 ## Mismatching Lifetime/Interval Releases & Elongated Holiday Weekends:
+
+When looking at when films earn their revenues, certain films who see their openings take place during 4-5 day holiday weekends appear to have bloated opening weekend earnings compared to films that are released on a standard 3-day opening weekend.
 
 ## My dataset
 
@@ -24,5 +28,6 @@ My dataset is available here:
 
 (https://docs.google.com/spreadsheets/d/1qHvfSw_W5FApCIXh4bjLwS2TmLcpV5UD2EYIEZ7l0fY/edit?gid=0#gid=0)
 
+# Additional Information Added: Rotten Tomatoes Scores
 
 ## AI disclosure
