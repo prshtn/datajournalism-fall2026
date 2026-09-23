@@ -4,7 +4,7 @@
 
 My original database is [Box Office Mojo](https://www.boxofficemojo.com/). I used [https://www.boxofficemojo.com/chart/top_lifetime_gross/?area=XWW], which ranks film by their lifetime grosses in the international box office.
 
-Box Office Mojo is an online box-office reporting service owned by IMDb. This database includes the movie title, worldwide/domestic grosses, and the percentage of each movie’s gross that came from both domestic and international markets.
+Box Office Mojo is an online box-office reporting service. This database includes the titles of the film, worldwide/domestic grosses, and the percentage of each movie’s gross that came from both domestic and international markets.
 
 ## What my database covers
 
@@ -14,7 +14,9 @@ Box Office Mojo labels domestic box office as revenue from the United States, Ca
 
 There are several limitations to this data:
 
-## Missing information added
+## Incomplete International Data:
+
+## Mismatching Lifetime/Interval Releases & Elongated Holiday Weekends:
 
 ## My dataset
 
@@ -22,10 +24,5 @@ My dataset is available here:
 
 (https://docs.google.com/spreadsheets/d/1qHvfSw_W5FApCIXh4bjLwS2TmLcpV5UD2EYIEZ7l0fY/edit?gid=0#gid=0)
 
-The original box-office data is available here:
-
-FIND
-
-## Difficult decisions and limitations
 
 ## AI disclosure
