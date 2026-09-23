@@ -33,6 +33,10 @@ How much of a films total gross earnings come from sporadic re-releases versus i
 Where does the line of domestic/international earnings fall on average and what does that say about a franchise or studio's global reach?
 How do older films hold up when you adjust earnings based on the inflation of movie theater ticket prices?
 
-# Additional Information Added: Rotten Tomatoes Scores
+## Additional Information Added: Rotten Tomatoes Scores
+Do movies with massive ticket sale revenues hold up against the opinions of critics?
+
+I included Rotten Tomatoes critic scores with the link to its profile on the Rotten Tomatoes website as an alternate, albeit unranked set of data. This could be used to answer questions such as how much a film would earn if there were a major theatrical re-release, why a film was poorly received by North American critics compared to foreign critics on sites like Metacritic or Letterboxd.
 
 ## AI disclosure
+I used AI to help organize and order the layout of this assignment 
