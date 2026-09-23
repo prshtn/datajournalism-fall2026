@@ -12,7 +12,7 @@ The original database covers theatrical box-office performance for all films. It
 
 Box Office Mojo labels domestic box office as revenue from the United States, Canada, and Puerto Rico. Foreign box office refers to revenue from the rest of the globe. Box-office totals sometimes change after a movie opens because films may remain in theaters, return to theaters for a re-release, or receive changing reports of revenue.
 
-# There are a few limitations to this data:
+# Limitations to this data:
 
 ## Incomplete International Data:
 
@@ -27,6 +27,11 @@ When looking at when films earn their revenues, certain films who see their open
 My dataset is available here:
 
 (https://docs.google.com/spreadsheets/d/1qHvfSw_W5FApCIXh4bjLwS2TmLcpV5UD2EYIEZ7l0fY/edit?gid=0#gid=0)
+
+# Reporting Question(s) With This Database: 
+How much of a films total gross earnings come from sporadic re-releases versus initial theatrical runs?
+Where does the line of domestic/international earnings fall on average and what does that say about a franchise or studio's global reach?
+How do older films hold up when you adjust earnings based on the inflation of movie theater ticket prices?
 
 # Additional Information Added: Rotten Tomatoes Scores
 
