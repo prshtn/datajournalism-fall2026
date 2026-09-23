@@ -1,7 +1,31 @@
-# Original Database
+# Assignment 2: Top Box Office Movies and Rotten Tomatoes Scores
 
-The original database is the medal table for the **2026 Winter Olympics (Milano Cortina 2026)**. This table records the number of gold, silver, and bronze medals won by each country/delegation, and as the total number of medals won.
+## Original database
 
-The database covers the 2026 Winter Olympics and includes the delegations that appear in the supplied dataset. The table is organized by the number of gold medals won
-- Olympedia — 2026 Winter Olympics
-- Expanded Dataset — Google Sheets
+My original database is [Box Office Mojo](https://www.boxofficemojo.com/). I used [https://www.boxofficemojo.com/chart/top_lifetime_gross/?area=XWW], which ranks film by their lifetime grosses in the international box office.
+
+Box Office Mojo is an online box-office reporting service owned by IMDb. This database includes the movie title, worldwide/domestic grosses, and the percentage of each movie’s gross that came from both domestic and international markets.
+
+## What my database covers
+
+The original database covers theatrical box-office performance for all films. It includes worldwide revenue, domestic revenue, foreign revenue, and domestic and foreign shares of worldwide revenue.
+
+Box Office Mojo labels domestic box office as revenue from the United States, Canada, and Puerto Rico. Foreign box office refers to revenue from the rest of the globe. Box-office totals sometimes change after a movie opens because films may remain in theaters, return to theaters for a re-release, or receive changing reports of revenue.
+
+There are several limitations to this data:
+
+## Missing information added
+
+## My dataset
+
+My dataset is available here:
+
+(https://docs.google.com/spreadsheets/d/1qHvfSw_W5FApCIXh4bjLwS2TmLcpV5UD2EYIEZ7l0fY/edit?gid=0#gid=0)
+
+The original box-office data is available here:
+
+FIND
+
+## Difficult decisions and limitations
+
+## AI disclosure
