@@ -13,7 +13,7 @@ This question is newsworthy for AU's audience because AU students live, study, w
 ### DATA SOURCE
 - Dataset: D.C. crime records
 - Total records analyzed: **2,156**
-- Relevant fields:
+- Fields:
   - `YEAR`
   - `offensegroup`
 
@@ -47,3 +47,33 @@ The highest year for crime in total was **2024, with 578 reported incidents**. P
 Property crime increased from **109 incidents in 2022 to 535 in 2023**, remained high in 2024 and 2025, and totaled 312 records in 2026.
 
 Violent crime stayed low compared to property crime, going from from **14 to 32 incidents per year** in the dataset.
+
+##Final Project
+
+# Data Source: https://american0-my.sharepoint.com/:x:/g/personal/mg3428a_american_edu/IQCPigjcH1ckTJdWM4_NzpeUAYgnDDsg-rT5LlxUyoMcCXU?rtime=YnUavrQk30g 
+
+1. Move targeted and offense groups into rows
+2. Move wards to columns
+3. Move CCN to values
+4. Filter by report year and count the amount -- We found it to be Black people in Ward 2.
+
+  ## Research:
+
+ 1. https://dcist.com/story/17/03/10/hate-crimes-in-dc-rose-by-62-percen/
+https://dcist.com/story/17/03/10/hate-crimes-in-dc-rose-by-62-percen/
+2. https://www.dcpolicycenter.org/publications/hate-crimes-public-health-2019/
+https://www.dcpolicycenter.org/publications/hate-crimes-public-health-2019/
+3. https://www.cbsnews.com/news/washington-dc-delegate-eleanor-holmes-norton-wants-more-action-on-hate-crimes-in-city/
+https://www.cbsnews.com/news/washington-dc-delegate-eleanor-holmes-norton-wants-more-action-on-hate-crimes-in-city/
+4. https://assets.montgomerycountymd.gov/files/pol/resources/files/annual-reports/biasincidents/2024%20Annual%20Bias%20Report%20Final%2003122025.pdf
+https://assets.montgomerycountymd.gov/files/pol/resources/files/annual-reports/biasincidents/2024%20Annual%20Bias%20Report%20Final%2003122025.pdf
+5. https://opendata.dc.gov/datasets/DCGIS::bias-crime/explore?location=38.905442%2C-77.050243%2C15
+https://opendata.dc.gov/datasets/DCGIS::bias-crime/explore?location=38.905442%2C-77.050243%2C15
+6. https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/hate-crime
+https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/hate-crime
+7. https://wtop.com/maryland/2023/04/what-triggers-hate-and-bias-in-maryland/
+https://wtop.com/maryland/2023/04/what-triggers-hate-and-bias-in-maryland/
+
+## A.I. Disclosure:
+
+I was initially confused by the information provided and was struggling to use excel, so I had AI create a graph on google sheets. I also used AI to figure out how to create a graph in markdown rather than inserting a harshly contrasting colored screenshot of my pivot chart on google slides.
