@@ -1,10 +1,12 @@
 # DC Crime Data Analysis
 
+## https://docs.google.com/spreadsheets/d/1VJiYis5rmeS3fGkPb7CNPeMW9isP0UkK/edit?usp=sharing&ouid=105133396608207245639&rtpof=true&sd=true
+
 ## 1. NEWSWORTHINESS / RESEARCH QUESTION
 
-**QUESTION:** How have reported violent and property crimes in Washington, D.C. changed from 2022-2026?
+**QUESTION:** How have reported violent crimes in Washington, D.C. changed from years 2022-2026?
 
-This question is potentially newsworthy for American University's audience because AU students live, study, work and travel throughout D.C. Crime trends can affect students' perceptions of safety and their understanding of the city surrounding campus. Looking at multiple years also provides more context than reporting on individual incidents.
+This question is newsworthy for AU's audience because AU students live, study, work and travel throughout the D.C. area. Crime trends can impact a students perception of safety and understanding of the city right outside of campus. Looking at an array of years also provides  context as opposed to reporting on an individual incident.
 
 ## 2. METHODOLOGY / PIVOT TABLE
 
@@ -16,14 +18,14 @@ This question is potentially newsworthy for American University's audience becau
   - `offensegroup`
 
 ### PROCESS
-1. Imported the D.C. crime dataset into a spreadsheet.
+1. Imported the Washington D.C. crime dataset into a spreadsheet.
 2. Identified `YEAR` and `offensegroup` as the variables needed for the analysis.
 3. Created a pivot table.
 4. Set `YEAR` as the **row variable**.
 5. Set `offensegroup` as the **column variable**.
-6. Used **COUNT** to calculate the number of crime records in each category.
-7. Added row and column totals.
-8. Compared yearly totals for property and violent crime.
+6. Used **COUNT** to calculate the number of crime records in both categores.
+7. Added totals for the row and columns.
+8. Counted yearly totals for property and violent crime by year and compared them.
 
 ### PIVOT TABLE OUTPUT
 
@@ -38,10 +40,10 @@ This question is potentially newsworthy for American University's audience becau
 
 ## 3. ANSWER
 
-The dataset shows that **property crime was substantially more common than violent crime** during the period analyzed.
+**Property crime was far more common than violent crime** during the period analyzed, according to my dataset. This is likely due to the relatively low population density and high concentration of residential and commercial infrastructure around Northwest D.C.
 
-The highest yearly total was **2024, with 578 reported incidents**. Property crime accounted for **2,061 of the 2,156 records**, while violent crime accounted for **95**.
+The highest year for crime in total was **2024, with 578 reported incidents**. Property crime accounted for **2,061 of the 2,156 records**, while violent crime accounted for just **95**.
 
-Property crime increased sharply from **109 incidents in 2022 to 535 in 2023**, remained high in 2024 and 2025, and totaled 312 records in 2026.
+Property crime increased from **109 incidents in 2022 to 535 in 2023**, remained high in 2024 and 2025, and totaled 312 records in 2026.
 
-Violent crime remained comparatively low, ranging from **14 to 32 incidents per year** in the dataset.
+Violent crime stayed low compared to property crime, going from from **14 to 32 incidents per year** in the dataset.
