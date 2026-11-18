@@ -69,3 +69,7 @@ I liked that the story made the methodology accessible to the readers rather tha
 At the same time, the story acknowledges that wildfire hazard potential is just one part of measuring danger. The analysis dug deeper and added other factors, which is important because it really nailed that a fire hazard score alone is not enough to assess the true danger.
 
 One problem is that the analysis focuses mainly on smaller communities and excludes any large metropolitan areas. That makes sense given the story's focus on smaller communities, but it also means the findings are not really meant to be interpreted as a whole picture of wildfire risk across the entire West.
+
+## ETC.
+
+I found that one of the story's strongest parts was how it focused on people who may likely have the hardest time with escaping during a wildfire. This includes people with disabilities, the elderly, and people in multi-unit or mobile homes. This shows that danger is not really laid out equally or evenly. If I were to change any one thing about this, I would move this information closer to the beginning to really hone in on the inequities that exist in disaster response
